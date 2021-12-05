@@ -8,7 +8,7 @@ The purpose of the project was to build a visually appealing and easy to use HTM
 
 As can be seen in the image below, the HTML page loads a nice white text against a dark background page, with easy to use filters for date, city, state, country, and shape of object. The user will input something in to each field (use lowercase letters in each field) and the JavaScript filters will perform functions display the results on the page. The image shows the search returning 1 result that is a match to what's specified in each field. 
 
-![alt text]
+![alt text](https://github.com/Jgray353/UFOs/blob/main/static/images/ufosite.png)
 
 ## Summary 
 
